@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtfT5YGOeui232th1usoX8TAanmaKTGCirwiqQURhiv+zJ6VjJouOQrnwv9sPDzVJuswZ54zIyDatYtRqn0w3w==",
+  "success": true,
+  "projectFilePath": "/Users/dodobo/Documents/csharp/pizza_mama/pizza_mama/pizza_mama.csproj",
+  "expectedPackageFiles": [
+    "/Users/dodobo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dodobo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/dodobo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
